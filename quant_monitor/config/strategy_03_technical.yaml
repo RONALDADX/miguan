@@ -1,0 +1,99 @@
+# 三号策略 - 技术分析策略（更新版）
+# 需同时满足所有条件
+
+strategy_03_technical:
+  name: "技术分析三号策略（更新版）"
+  type: "technical_multiple_indicators"
+  description: "DMI+KDJ+RSI+BOLL+高换手率组合策略"
+  
+  # 触发条件（必须同时满足所有条件）
+  trigger_conditions:
+    
+    # 条件1：DMI指标
+    dmi:
+      enabled: true
+      conditions:
+        - name: "DI1上穿ADX线"
+          code: "dmi_di1_cross_adx"
+          description: "+DI上穿ADX，显示上升动力"
+      
+      logic: "all"
+    
+    # 条件2：换手率
+    turnover:
+      enabled: true
+      conditions:
+        - name: "换手率大于5%"
+          code: "turnover_gt_5"
+          value: 0.05
+          description: "换手率超过5%，显示高度市场活跃度"
+      
+      logic: "all"
+    
+    # 条件3：BOLL指标
+    boll:
+      enabled: true
+      conditions:
+        - name: "股价突破BOLL中轨"
+          code: "boll_break_middle"
+          description: "股价上穿布林带中轨"
+      
+      logic: "all"
+    
+    # 条件4：KDJ指标
+    kdj:
+      enabled: true
+      conditions:
+        - name: "KDJ金叉"
+          code: "kdj_golden_cross"
+          description: "KDJ指标出现金叉信号"
+      
+      logic: "all"
+    
+    # 条件5：RSI指标
+    rsi:
+      enabled: true
+      conditions:
+        - name: "RSI金叉"
+          code: "rsi_golden_cross"
+          description: "RSI指标出现金叉信号"
+          
+        - name: "RSI6低于66"
+          code: "rsi6_below_66"
+          value: 66
+          description: "RSI6值低于66，避免超买状态"
+      
+      logic: "all"  # 两个RSI条件都需要满足
+  
+  # 监控参数
+  monitoring:
+    frequency: 60  # 检查频率（秒），建议60秒（1分钟）
+    realtime: true  # 实时监控
+    intraday_only: true  # 仅盘中监控
+    
+  # 数据要求
+  data_requirements:
+    timeframe: "1min"  # 1分钟K线
+    history_days: 20  # 需要20天历史数据
+    indicators: ["dmi", "rsi", "boll"]
+    
+  # 输出设置
+  output:
+    alerts: true  # 实时预警
+    daily_report: true  # 每日报告
+    signal_log: true  # 信号记录
+    
+  # 交易规则（可选）
+  trading:
+    position_size: 0.12  # 单笔仓位12%
+    stop_loss: 0.07  # 止损7%
+    take_profit: 0.18  # 止盈18%
+    max_positions: 4  # 最大持仓4只
+    
+  # 策略备注
+  notes:
+    - "所有条件必须同时满足才触发策略"
+    - "DMI指标需满足DI1上穿ADX"
+    - "RSI需出现金叉信号"
+    - "换手率需大于3%"
+    - "股价需突破BOLL中轨"

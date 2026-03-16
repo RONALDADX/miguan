@@ -1,0 +1,7397 @@
+{
+  "screening_time": "2026-02-15T13:32:45.520662",
+  "strategy_name": "一号策略（十个条件全满足）",
+  "period": "一周（5个交易日）",
+  "total_screened": 49,
+  "triggered_stocks": [],
+  "failed_stocks": [
+    {
+      "symbol": "300750",
+      "name": "宁德时代",
+      "met_conditions_count": 1,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%"
+      ],
+      "failed_count": 11
+    },
+    {
+      "symbol": "601012",
+      "name": "隆基绿能",
+      "met_conditions_count": 1,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%"
+      ],
+      "failed_count": 11
+    },
+    {
+      "symbol": "600276",
+      "name": "恒瑞医药",
+      "met_conditions_count": 1,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%"
+      ],
+      "failed_count": 11
+    },
+    {
+      "symbol": "603288",
+      "name": "海天味业",
+      "met_conditions_count": 1,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%"
+      ],
+      "failed_count": 11
+    },
+    {
+      "symbol": "000725",
+      "name": "京东方A",
+      "met_conditions_count": 1,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%"
+      ],
+      "failed_count": 11
+    },
+    {
+      "symbol": "603986",
+      "name": "兆易创新",
+      "met_conditions_count": 1,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%"
+      ],
+      "failed_count": 11
+    },
+    {
+      "symbol": "688981",
+      "name": "中芯国际",
+      "met_conditions_count": 1,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%"
+      ],
+      "failed_count": 11
+    },
+    {
+      "symbol": "600585",
+      "name": "海螺水泥",
+      "met_conditions_count": 1,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%"
+      ],
+      "failed_count": 11
+    },
+    {
+      "symbol": "601899",
+      "name": "紫金矿业",
+      "met_conditions_count": 1,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%"
+      ],
+      "failed_count": 11
+    },
+    {
+      "symbol": "002456",
+      "name": "欧菲光",
+      "met_conditions_count": 1,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%"
+      ],
+      "failed_count": 11
+    },
+    {
+      "symbol": "002714",
+      "name": "牧原股份",
+      "met_conditions_count": 1,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%"
+      ],
+      "failed_count": 11
+    },
+    {
+      "symbol": "300413",
+      "name": "芒果超媒",
+      "met_conditions_count": 1,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%"
+      ],
+      "failed_count": 11
+    },
+    {
+      "symbol": "600030",
+      "name": "中信证券",
+      "met_conditions_count": 1,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%"
+      ],
+      "failed_count": 11
+    },
+    {
+      "symbol": "000001",
+      "name": "平安银行",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "000002",
+      "name": "万科A",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "000858",
+      "name": "五粮液",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "600519",
+      "name": "贵州茅台",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "601318",
+      "name": "中国平安",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "600036",
+      "name": "招商银行",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "601988",
+      "name": "中国银行",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "601328",
+      "name": "交通银行",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "601288",
+      "name": "农业银行",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "601398",
+      "name": "工商银行",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "000333",
+      "name": "美的集团",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "002415",
+      "name": "海康威视",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "300059",
+      "name": "东方财富",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "002475",
+      "name": "立讯精密",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "002594",
+      "name": "比亚迪",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "600887",
+      "name": "伊利股份",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "000568",
+      "name": "泸州老窖",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "600436",
+      "name": "片仔癀",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "600309",
+      "name": "万华化学",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "601888",
+      "name": "中国中免",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "002049",
+      "name": "紫光国微",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "300124",
+      "name": "汇川技术",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "603259",
+      "name": "药明康德",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "300122",
+      "name": "智飞生物",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "300142",
+      "name": "沃森生物",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "300015",
+      "name": "爱尔眼科",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "300347",
+      "name": "泰格医药",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "600028",
+      "name": "中国石化",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "601857",
+      "name": "中国石油",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "600111",
+      "name": "北方稀土",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "002241",
+      "name": "歌尔股份",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "300498",
+      "name": "温氏股份",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "601166",
+      "name": "兴业银行",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "600900",
+      "name": "长江电力",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "601668",
+      "name": "中国建筑",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "601800",
+      "name": "中国交建",
+      "met_conditions_count": 0,
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    }
+  ],
+  "stock_details": {
+    "000001": {
+      "symbol": "000001",
+      "name": "平安银行",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.005993059,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 0.6998251446929418,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.5993059000000001,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 0.6998251446929418,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "000002": {
+      "symbol": "000002",
+      "name": "万科A",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.006045809,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 0.606030282022485,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.6045809,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 0.606030282022485,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "000858": {
+      "symbol": "000858",
+      "name": "五粮液",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.008673926,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 1.8204241410364332,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.8673926000000001,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 1.8204241410364332,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "600519": {
+      "symbol": "600519",
+      "name": "贵州茅台",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.007585835,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 1.7919406742766353,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.7585835,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 1.7919406742766353,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "601318": {
+      "symbol": "601318",
+      "name": "中国平安",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.008014012,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 1.0612224034916733,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.8014011999999999,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 1.0612224034916733,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "600036": {
+      "symbol": "600036",
+      "name": "招商银行",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.006641996,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 1.3494185530331766,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.6641996,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 1.3494185530331766,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "601988": {
+      "symbol": "601988",
+      "name": "中国银行",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.002674078,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 0.34375773319855957,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.2674078,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 0.34375773319855957,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "601328": {
+      "symbol": "601328",
+      "name": "交通银行",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.004245393,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 1.0645010359432048,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.4245393,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 1.0645010359432048,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "601288": {
+      "symbol": "601288",
+      "name": "农业银行",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.00307324,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 0.758468492081003,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.307324,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 0.758468492081003,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "601398": {
+      "symbol": "601398",
+      "name": "工商银行",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.002366857,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 0.8638350241848274,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.2366857,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 0.8638350241848274,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "000333": {
+      "symbol": "000333",
+      "name": "美的集团",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.006292111,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 0.7838898038815066,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.6292111,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 0.7838898038815066,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "002415": {
+      "symbol": "002415",
+      "name": "海康威视",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.007419969,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 1.8542588906087643,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.7419969000000001,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 1.8542588906087643,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "300750": {
+      "symbol": "300750",
+      "name": "宁德时代",
+      "all_conditions_met": false,
+      "met_conditions_count": 1,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.009436121,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": true,
+          "details": {
+            "vs_yesterday_ratio": 2.2216427514301818,
+            "vs_yesterday_double": true
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.9436121000000001,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 2.2216427514301818,
+          "vs_yesterday_double": true
+        }
+      }
+    },
+    "300059": {
+      "symbol": "300059",
+      "name": "东方财富",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.002835995,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 0.28830222828737806,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.2835995,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 0.28830222828737806,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "002475": {
+      "symbol": "002475",
+      "name": "立讯精密",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.004911515,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 1.2436601758008246,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.4911515,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 1.2436601758008246,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "002594": {
+      "symbol": "002594",
+      "name": "比亚迪",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.008215795,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 0.85158501276632,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.8215795,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 0.85158501276632,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "601012": {
+      "symbol": "601012",
+      "name": "隆基绿能",
+      "all_conditions_met": false,
+      "met_conditions_count": 1,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.004132523,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": true,
+          "details": {
+            "vs_yesterday_ratio": 3.539597879936138,
+            "vs_yesterday_double": true
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.4132523,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 3.539597879936138,
+          "vs_yesterday_double": true
+        }
+      }
+    },
+    "600887": {
+      "symbol": "600887",
+      "name": "伊利股份",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.004295106,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 1.4509821673794152,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.42951059999999996,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 1.4509821673794152,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "000568": {
+      "symbol": "000568",
+      "name": "泸州老窖",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.006200022,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 0.9036302195026612,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.6200022000000001,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 0.9036302195026612,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "600276": {
+      "symbol": "600276",
+      "name": "恒瑞医药",
+      "all_conditions_met": false,
+      "met_conditions_count": 1,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.009330775,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": true,
+          "details": {
+            "vs_yesterday_ratio": 3.714520418810234,
+            "vs_yesterday_double": true
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.9330775,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 3.714520418810234,
+          "vs_yesterday_double": true
+        }
+      }
+    },
+    "600436": {
+      "symbol": "600436",
+      "name": "片仔癀",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.002145939,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 1.8889692853313758,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.2145939,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 1.8889692853313758,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "600309": {
+      "symbol": "600309",
+      "name": "万华化学",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.003328404,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 0.8998867707827524,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.33284040000000004,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 0.8998867707827524,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "603288": {
+      "symbol": "603288",
+      "name": "海天味业",
+      "all_conditions_met": false,
+      "met_conditions_count": 1,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.007720683,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": true,
+          "details": {
+            "vs_yesterday_ratio": 4.264216063957583,
+            "vs_yesterday_double": true
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.7720683,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 4.264216063957583,
+          "vs_yesterday_double": true
+        }
+      }
+    },
+    "601888": {
+      "symbol": "601888",
+      "name": "中国中免",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.002125421,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 0.7709728366615834,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.2125421,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 0.7709728366615834,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "000725": {
+      "symbol": "000725",
+      "name": "京东方A",
+      "all_conditions_met": false,
+      "met_conditions_count": 1,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.008442918,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": true,
+          "details": {
+            "vs_yesterday_ratio": 2.8652190320535706,
+            "vs_yesterday_double": true
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.8442918,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 2.8652190320535706,
+          "vs_yesterday_double": true
+        }
+      }
+    },
+    "002049": {
+      "symbol": "002049",
+      "name": "紫光国微",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.004604587,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 0.6979024067591507,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.4604587,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 0.6979024067591507,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "300124": {
+      "symbol": "300124",
+      "name": "汇川技术",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.005820677,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 0.5937980013778184,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.5820677,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 0.5937980013778184,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "603986": {
+      "symbol": "603986",
+      "name": "兆易创新",
+      "all_conditions_met": false,
+      "met_conditions_count": 1,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.00387705,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": true,
+          "details": {
+            "vs_yesterday_ratio": 2.228006548887074,
+            "vs_yesterday_double": true
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.38770499999999997,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 2.228006548887074,
+          "vs_yesterday_double": true
+        }
+      }
+    },
+    "688981": {
+      "symbol": "688981",
+      "name": "中芯国际",
+      "all_conditions_met": false,
+      "met_conditions_count": 1,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.004115654,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": true,
+          "details": {
+            "vs_yesterday_ratio": 3.3078690661717842,
+            "vs_yesterday_double": true
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.41156539999999997,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 3.3078690661717842,
+          "vs_yesterday_double": true
+        }
+      }
+    },
+    "603259": {
+      "symbol": "603259",
+      "name": "药明康德",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.005903526,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 0.8534547888527311,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.5903526,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 0.8534547888527311,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "300122": {
+      "symbol": "300122",
+      "name": "智飞生物",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.004141931,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 0.8771137268255578,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.4141931,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 0.8771137268255578,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "300142": {
+      "symbol": "300142",
+      "name": "沃森生物",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.002195086,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 0.2726942277055425,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.21950860000000003,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 0.2726942277055425,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "300015": {
+      "symbol": "300015",
+      "name": "爱尔眼科",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.007472069,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 1.1742260700609848,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.7472069,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 1.1742260700609848,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "300347": {
+      "symbol": "300347",
+      "name": "泰格医药",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.003345599,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 0.6693231403700444,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.33455989999999997,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 0.6693231403700444,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "600585": {
+      "symbol": "600585",
+      "name": "海螺水泥",
+      "all_conditions_met": false,
+      "met_conditions_count": 1,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.005205127,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": true,
+          "details": {
+            "vs_yesterday_ratio": 2.3985599775126087,
+            "vs_yesterday_double": true
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.5205127,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 2.3985599775126087,
+          "vs_yesterday_double": true
+        }
+      }
+    },
+    "601899": {
+      "symbol": "601899",
+      "name": "紫金矿业",
+      "all_conditions_met": false,
+      "met_conditions_count": 1,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.007130804,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": true,
+          "details": {
+            "vs_yesterday_ratio": 2.1486512180092716,
+            "vs_yesterday_double": true
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.7130804000000001,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 2.1486512180092716,
+          "vs_yesterday_double": true
+        }
+      }
+    },
+    "600028": {
+      "symbol": "600028",
+      "name": "中国石化",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.003393961,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 0.4506397125963745,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.3393961,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 0.4506397125963745,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "601857": {
+      "symbol": "601857",
+      "name": "中国石油",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.00287773,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 0.5507096553933466,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.287773,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 0.5507096553933466,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "600111": {
+      "symbol": "600111",
+      "name": "北方稀土",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.004478404,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 0.7287095422073189,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.4478404,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 0.7287095422073189,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "002241": {
+      "symbol": "002241",
+      "name": "歌尔股份",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.008530456,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 1.4469472825390957,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.8530456000000001,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 1.4469472825390957,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "002456": {
+      "symbol": "002456",
+      "name": "欧菲光",
+      "all_conditions_met": false,
+      "met_conditions_count": 1,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.009764572,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": true,
+          "details": {
+            "vs_yesterday_ratio": 2.8926768372487643,
+            "vs_yesterday_double": true
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.9764571999999999,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 2.8926768372487643,
+          "vs_yesterday_double": true
+        }
+      }
+    },
+    "002714": {
+      "symbol": "002714",
+      "name": "牧原股份",
+      "all_conditions_met": false,
+      "met_conditions_count": 1,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.004468826,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": true,
+          "details": {
+            "vs_yesterday_ratio": 3.734662342123099,
+            "vs_yesterday_double": true
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.4468826,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 3.734662342123099,
+          "vs_yesterday_double": true
+        }
+      }
+    },
+    "300498": {
+      "symbol": "300498",
+      "name": "温氏股份",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.001806659,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 0.23962631399890044,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.1806659,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 0.23962631399890044,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "300413": {
+      "symbol": "300413",
+      "name": "芒果超媒",
+      "all_conditions_met": false,
+      "met_conditions_count": 1,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.003914579,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": true,
+          "details": {
+            "vs_yesterday_ratio": 2.0775274393140184,
+            "vs_yesterday_double": true
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.39145789999999997,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 2.0775274393140184,
+          "vs_yesterday_double": true
+        }
+      }
+    },
+    "600030": {
+      "symbol": "600030",
+      "name": "中信证券",
+      "all_conditions_met": false,
+      "met_conditions_count": 1,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.005760202,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": true,
+          "details": {
+            "vs_yesterday_ratio": 3.5776629984484916,
+            "vs_yesterday_double": true
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.5760202,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 3.5776629984484916,
+          "vs_yesterday_double": true
+        }
+      }
+    },
+    "601166": {
+      "symbol": "601166",
+      "name": "兴业银行",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.001636345,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 0.6352192053514863,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.1636345,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 0.6352192053514863,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "600900": {
+      "symbol": "600900",
+      "name": "长江电力",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.005027863,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 0.7421201095380235,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.5027862999999999,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 0.7421201095380235,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "601668": {
+      "symbol": "601668",
+      "name": "中国建筑",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.002890702,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 0.3121915090059418,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.2890702,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 0.3121915090059418,
+          "vs_yesterday_double": false
+        }
+      }
+    },
+    "601800": {
+      "symbol": "601800",
+      "name": "中国交建",
+      "all_conditions_met": false,
+      "met_conditions_count": 0,
+      "total_conditions": 12,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0.0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0.0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": false,
+          "details": {
+            "turnover_rate": 0.002304499,
+            "above_5_percent": false
+          }
+        },
+        "volume": {
+          "name": "虚拟成交量≥昨日2倍",
+          "met": false,
+          "details": {
+            "vs_yesterday_ratio": 0.4011465363083467,
+            "vs_yesterday_double": false
+          }
+        }
+      },
+      "indicators_summary": {
+        "dmi": {
+          "plus_di": 0.0,
+          "minus_di": 0.0,
+          "adx": 0.0
+        },
+        "rsi": {
+          "rsi6": 0.0,
+          "golden_cross": false
+        },
+        "macd": {
+          "dif": 0.0,
+          "dea": 0.0,
+          "bar": 0.0
+        },
+        "boll": {
+          "upper": 0.0,
+          "middle": 0.0,
+          "lower": 0.0,
+          "close": 0.0
+        },
+        "turnover": {
+          "rate": 0.23044989999999999,
+          "above_5": false
+        },
+        "volume": {
+          "vs_yesterday_ratio": 0.4011465363083467,
+          "vs_yesterday_double": false
+        }
+      }
+    }
+  }
+}

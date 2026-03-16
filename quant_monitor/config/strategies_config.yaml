@@ -1,0 +1,193 @@
+# 交易策略配置
+
+strategies:
+  # 一号策略 - 价值成长策略
+  strategy_01:
+    name: "价值成长一号策略"
+    description: "结合价值投资和成长性的选股策略"
+    enabled: true
+    priority: 1
+    
+    # 基本面指标
+    fundamental:
+      # 估值指标
+      pe_ratio:
+        min: 5
+        max: 25
+        weight: 0.15
+        
+      pb_ratio:
+        min: 0.8
+        max: 3.0
+        weight: 0.15
+        
+      # 盈利能力
+      roe:
+        min: 0.10  # 10%以上
+        weight: 0.20
+        
+      # 成长性
+      revenue_growth:
+        min: 0.15  # 营收增长15%以上
+        weight: 0.15
+        
+      profit_growth:
+        min: 0.10  # 利润增长10%以上
+        weight: 0.15
+        
+      # 财务健康
+      debt_ratio:
+        max: 0.60  # 负债率不超过60%
+        weight: 0.10
+        
+      current_ratio:
+        min: 1.2   # 流动比率1.2以上
+        weight: 0.10
+    
+    # 技术面指标
+    technical:
+      # 趋势指标
+      trend:
+        period: 20
+        weight: 0.30
+        
+      # 动量指标
+      momentum:
+        period: 10
+        weight: 0.20
+        
+      # 波动率
+      volatility:
+        max: 0.35  # 年化波动率不超过35%
+        weight: 0.15
+        
+      # 相对强度
+      rsi:
+        min: 40
+        max: 70
+        weight: 0.20
+        
+      # 成交量
+      volume_ratio:
+        min: 1.0   # 成交量不低于平均
+        weight: 0.15
+    
+    # 市场面指标
+    market:
+      # 流动性
+      avg_volume:
+        min: 10000000  # 日均成交额1000万以上
+        weight: 0.20
+        
+      # 市值
+      market_cap:
+        min: 1000000000  # 市值10亿以上
+        max: 50000000000  # 市值500亿以下
+        weight: 0.20
+        
+      # 行业地位
+      industry_rank:
+        min: 0.6  # 行业排名前40%
+        weight: 0.20
+        
+      # 机构关注度
+      institutional_holding:
+        min: 0.05  # 机构持股5%以上
+        weight: 0.20
+        
+      # 分析师评级
+      analyst_rating:
+        min: 3.5  # 平均评级3.5星以上（5星制）
+        weight: 0.20
+    
+    # 综合筛选条件
+    screening:
+      # 必须满足的条件
+      must_have:
+        - "roe >= 0.10"
+        - "pe_ratio <= 25"
+        - "debt_ratio <= 0.60"
+        - "avg_volume >= 10000000"
+      
+      # 优选条件
+      preferred:
+        - "revenue_growth >= 0.20"
+        - "profit_growth >= 0.15"
+        - "current_ratio >= 1.5"
+        - "rsi between 45 and 65"
+      
+      # 排除条件
+      exclude:
+        - "st_risk = true"  # ST股票
+        - "suspended = true"  # 停牌股票
+        - "pe_ratio < 0"  # 亏损企业
+        - "pb_ratio < 0.5"  # 破净过多
+    
+    # 评分权重
+    weights:
+      fundamental: 0.40
+      technical: 0.35
+      market: 0.25
+    
+    # 交易规则
+    trading:
+      # 买入条件
+      buy:
+        total_score: 80  # 综合评分80分以上
+        technical_score: 70  # 技术面评分70分以上
+        market_timing: "trend_up"  # 趋势向上
+        
+      # 卖出条件
+      sell:
+        total_score: 60  # 评分低于60分
+        stop_loss: 0.08  # 8%止损
+        take_profit: 0.25  # 25%止盈
+        trailing_stop: 0.10  # 10%移动止损
+        
+      # 仓位管理
+      position:
+        max_position: 0.10  # 单只股票最大仓位10%
+        initial_position: 0.05  # 初始仓位5%
+        pyramid: true  # 允许金字塔加仓
+        max_additions: 2  # 最多加仓2次
+  
+  # 二号策略 - 趋势跟踪策略
+  strategy_02:
+    name: "趋势跟踪二号策略"
+    description: "基于趋势和动量的短线交易策略"
+    enabled: false
+    priority: 2
+    
+  # 三号策略 - 均值回归策略
+  strategy_03:
+    name: "均值回归三号策略"
+    description: "基于统计套利的均值回归策略"
+    enabled: false
+    priority: 3
+
+# 策略执行参数
+execution:
+  # 选股频率
+  screening_frequency: "weekly"  # weekly, daily, monthly
+  
+  # 选股范围
+  universe:
+    - "a_stock"  # A股主板
+    - "sme_board"  # 中小板
+    - "chinext"  # 创业板
+    
+  # 股票池大小
+  pool_size:
+    initial: 300  # 初选股票池
+    final: 20     # 最终入选股票
+    
+  # 回测参数
+  backtest:
+    start_date: "2023-01-01"
+    end_date: "2023-12-31"
+    initial_capital: 1000000
+    
+  # 实时监控
+  monitoring:
+    check_interval: 3600  # 每1小时检查一次
+    alert_threshold: 0.70  # 评分低于70分触发预警

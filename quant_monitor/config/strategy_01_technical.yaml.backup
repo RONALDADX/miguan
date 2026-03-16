@@ -1,0 +1,153 @@
+# 一号策略 - 盘中实时技术分析策略（全条件满足）
+# 十个条件必须全部满足
+
+strategy_01_technical:
+  name: "盘中技术分析一号策略（全条件）"
+  type: "intraday_technical_all_conditions"
+  description: "盘中实时技术指标全条件触发策略（十个条件必须全部满足）"
+  
+  # 基础条件：MACD位置
+  macd_position: ["above_zero", "below_zero"]  # 零线上下均可
+  
+  # 触发条件（符合任一即可）
+  trigger_conditions:
+    
+    # 条件组1：MACD相关（3选1）
+    macd_group:
+      enabled: true
+      conditions:
+        - name: "绿柱逐步缩短，有金叉趋势"
+          code: "macd_green_shrinking"
+          description: "MACD绿柱逐步缩短，显示金叉趋势"
+          
+        - name: "金叉"
+          code: "macd_golden_cross"
+          description: "MACD发生金叉"
+          
+        - name: "底背离最佳"
+          code: "macd_bottom_divergence"
+          description: "MACD底背离信号"
+      
+      logic: "any"  # 任一条件满足即可
+    
+    # 条件2：RSI相关
+    rsi:
+      enabled: true
+      conditions:
+        - name: "RSI金叉"
+          code: "rsi_golden_cross"
+          
+        - name: "RSI6不高于68"
+          code: "rsi6_max_68"
+          value: 68
+      
+      logic: "all"  # 两个条件都需要满足
+    
+    # 条件3：BBI相关
+    bbi:
+      enabled: true
+      conditions:
+        - name: "BBI金叉"
+          code: "bbi_golden_cross"
+      
+      logic: "all"
+    
+    # 条件4：DPO相关
+    dpo:
+      enabled: true
+      conditions:
+        - name: "DPO金叉"
+          code: "dpo_golden_cross"
+          # 移除了DPO角度>20度的条件
+      
+      logic: "all"
+    
+    # 条件5：OBV相关
+    obv:
+      enabled: true
+      conditions:
+        - name: "OBV在MAOBV上方"
+          code: "obv_above_ma"
+          # 从连续5天改为当前在MAOBV上方即可
+      
+      logic: "all"
+    
+    # 条件6：KDJ相关（2选1）
+    kdj:
+      enabled: true
+      conditions:
+        - name: "KDJ金叉"
+          code: "kdj_golden_cross"
+          
+        - name: "KDJ有金叉趋势"
+          code: "kdj_trend_golden"
+      
+      logic: "any"  # 任一条件满足即可
+    
+    # 条件7：DMI相关
+    dmi:
+      enabled: true
+      conditions:
+        - name: "DI1上穿ADX线"
+          code: "dmi_di1_cross_adx"
+          # 移除了ADX>20的条件
+      
+      logic: "all"
+    
+    # 条件8：BOLL相关
+    boll:
+      enabled: true
+      conditions:
+        - name: "股价上穿BOLL中轨"
+          code: "boll_cross_middle"
+          
+        - name: "低中高三轨整体上行"
+          code: "boll_trend_up"
+      
+      logic: "all"
+    
+    # 条件9：换手率
+    turnover:
+      enabled: true
+      conditions:
+        - name: "换手率大于等于5%"
+          code: "turnover_min"
+          value: 0.05
+      
+      logic: "all"
+    
+    # 条件10：成交量
+    volume:
+      enabled: true
+      conditions:
+        - name: "成交量盘中虚拟成交量高于前一日一倍或一倍以上"
+          code: "volume_vs_yesterday_min"
+          value: 2.0
+          # 移除了高于15日平均成交量的条件
+      
+      logic: "all"
+  
+  # 监控参数
+  monitoring:
+    frequency: 60  # 检查频率（秒），建议60秒（1分钟）
+    realtime: true  # 实时监控
+    intraday_only: true  # 仅盘中监控
+    
+  # 数据要求
+  data_requirements:
+    timeframe: "1min"  # 1分钟K线
+    history_days: 30  # 需要30天历史数据
+    indicators: ["macd", "rsi", "kdj", "boll", "dmi", "dpo", "bbi", "obv"]
+    
+  # 输出设置
+  output:
+    alerts: true  # 实时预警
+    daily_report: true  # 每日报告
+    signal_log: true  # 信号记录
+    
+  # 交易规则（可选）
+  trading:
+    position_size: 0.10  # 单笔仓位10%
+    stop_loss: 0.05  # 止损5%
+    take_profit: 0.15  # 止盈15%
+    max_positions: 5  # 最大持仓5只

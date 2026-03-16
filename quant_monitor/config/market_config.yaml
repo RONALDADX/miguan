@@ -1,0 +1,60 @@
+# 市场配置
+
+markets:
+  a_stock:
+    enabled: true
+    data_source: "akshare"
+    symbols:
+      - "000001"  # 平安银行
+      - "000002"  # 万科A
+      - "000858"  # 五粮液
+      - "600519"  # 贵州茅台
+      - "601318"  # 中国平安
+    update_interval: 60  # 秒
+    
+  hk_stock:
+    enabled: true
+    data_source: "akshare"
+    symbols:
+      - "00700"   # 腾讯控股
+      - "00981"   # 中芯国际
+      - "01299"   # 友邦保险
+    update_interval: 60
+    
+  us_stock:
+    enabled: false
+    data_source: "akshare"
+    symbols:
+      - "AAPL"
+      - "MSFT"
+      - "GOOGL"
+    update_interval: 60
+    
+  futures:
+    enabled: true
+    data_source: "akshare"
+    symbols:
+      - "IF00"    # 沪深300期货
+      - "IC00"    # 中证500期货
+      - "IH00"    # 上证50期货
+    update_interval: 30
+    
+  crypto:
+    enabled: false
+    data_source: "ccxt"
+    symbols:
+      - "BTC/USDT"
+      - "ETH/USDT"
+    update_interval: 10
+
+data_storage:
+  type: "redis"  # redis, mongodb, sqlite
+  redis:
+    host: "localhost"
+    port: 6379
+    db: 0
+  mongodb:
+    uri: "mongodb://localhost:27017"
+    database: "quant_monitor"
+  sqlite:
+    path: "data/quant.db"

@@ -1,0 +1,1017 @@
+{
+  "screening_time": "2026-02-15T13:29:11.283322",
+  "strategy_name": "一号策略（十个条件全满足）",
+  "period": "一周（5个交易日）",
+  "total_screened": 49,
+  "triggered_stocks": [],
+  "failed_stocks": [
+    {
+      "symbol": "000333",
+      "name": "美的集团",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%"
+      ],
+      "failed_count": 11
+    },
+    {
+      "symbol": "002415",
+      "name": "海康威视",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%"
+      ],
+      "failed_count": 11
+    },
+    {
+      "symbol": "300750",
+      "name": "宁德时代",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%"
+      ],
+      "failed_count": 11
+    },
+    {
+      "symbol": "600276",
+      "name": "恒瑞医药",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%"
+      ],
+      "failed_count": 11
+    },
+    {
+      "symbol": "688981",
+      "name": "中芯国际",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%"
+      ],
+      "failed_count": 11
+    },
+    {
+      "symbol": "601857",
+      "name": "中国石油",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%"
+      ],
+      "failed_count": 11
+    },
+    {
+      "symbol": "002241",
+      "name": "歌尔股份",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%"
+      ],
+      "failed_count": 11
+    },
+    {
+      "symbol": "000001",
+      "name": "平安银行",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "000002",
+      "name": "万科A",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "000858",
+      "name": "五粮液",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "600519",
+      "name": "贵州茅台",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "601318",
+      "name": "中国平安",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "600036",
+      "name": "招商银行",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "601988",
+      "name": "中国银行",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "601328",
+      "name": "交通银行",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "601288",
+      "name": "农业银行",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "601398",
+      "name": "工商银行",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "300059",
+      "name": "东方财富",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "002475",
+      "name": "立讯精密",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "002594",
+      "name": "比亚迪",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "601012",
+      "name": "隆基绿能",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "600887",
+      "name": "伊利股份",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "000568",
+      "name": "泸州老窖",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "600436",
+      "name": "片仔癀",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "600309",
+      "name": "万华化学",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "603288",
+      "name": "海天味业",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "601888",
+      "name": "中国中免",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "000725",
+      "name": "京东方A",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "002049",
+      "name": "紫光国微",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "300124",
+      "name": "汇川技术",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "603986",
+      "name": "兆易创新",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "603259",
+      "name": "药明康德",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "300122",
+      "name": "智飞生物",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "300142",
+      "name": "沃森生物",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "300015",
+      "name": "爱尔眼科",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "300347",
+      "name": "泰格医药",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "600585",
+      "name": "海螺水泥",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "601899",
+      "name": "紫金矿业",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "600028",
+      "name": "中国石化",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "600111",
+      "name": "北方稀土",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "002456",
+      "name": "欧菲光",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "002714",
+      "name": "牧原股份",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "300498",
+      "name": "温氏股份",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "300413",
+      "name": "芒果超媒",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "600030",
+      "name": "中信证券",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "601166",
+      "name": "兴业银行",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "600900",
+      "name": "长江电力",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "601668",
+      "name": "中国建筑",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    },
+    {
+      "symbol": "601800",
+      "name": "中国交建",
+      "failed_conditions": [
+        "MACD条件（绿柱缩短/金叉/底背离）",
+        "RSI金叉",
+        "RSI6≤68",
+        "BBI金叉",
+        "DPO金叉",
+        "DPO角度>20度",
+        "OBV连续5天在MAOBV上方",
+        "KDJ金叉或有金叉趋势",
+        "DI1上穿ADX线",
+        "股价上穿BOLL中轨且三轨上行",
+        "换手率≥5%",
+        "虚拟成交量≥昨日2倍"
+      ],
+      "failed_count": 12
+    }
+  ],
+  "stock_details": {
+    "000001": {
+      "symbol": "000001",
+      "name": "平安银行",
+      "all_conditions_met": false,
+      "conditions": {
+        "macd": {
+          "name": "MACD条件（绿柱缩短/金叉/底背离）",
+          "met": false,
+          "details": {
+            "green_bar_shrinking": false,
+            "golden_cross": false,
+            "bottom_divergence": false
+          }
+        },
+        "rsi_golden": {
+          "name": "RSI金叉",
+          "met": false,
+          "details": {
+            "rsi_golden_cross": false
+          }
+        },
+        "rsi6_limit": {
+          "name": "RSI6≤68",
+          "met": false,
+          "details": {
+            "rsi6": 0,
+            "below_68": false
+          }
+        },
+        "bbi": {
+          "name": "BBI金叉",
+          "met": false,
+          "details": {
+            "bbi_golden_cross": false
+          }
+        },
+        "dpo_golden": {
+          "name": "DPO金叉",
+          "met": false,
+          "details": {
+            "dpo_golden_cross": false
+          }
+        },
+        "dpo_angle": {
+          "name": "DPO角度>20度",
+          "met": false,
+          "details": {
+            "dpo_angle": 0,
+            "angle_gt_20": false
+          }
+        },
+        "obv": {
+          "name": "OBV连续5天在MAOBV上方",
+          "met": false,
+          "details": {
+            "obv_above_ma_5days": false
+          }
+        },
+        "kdj": {
+          "name": "KDJ金叉或有金叉趋势",
+          "met": false,
+          "details": {
+            "kdj_golden_cross": false,
+            "kdj_trend_golden": false
+          }
+        },
+        "dmi": {
+          "name": "DI1上穿ADX线",
+          "met": false,
+          "details": {
+            "di1_cross_adx": false
+          }
+        },
+        "boll": {
+          "name": "股价上穿BOLL中轨且三轨上行",
+          "met": false,
+          "details": {
+            "boll_cross_middle": false,
+            "boll_trend_up": false
+          }
+        },
+        "turnover": {
+          "name": "换手率≥5%",
+          "met": 

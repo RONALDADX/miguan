@@ -1,0 +1,82 @@
+# 风险控制配置
+
+risk_limits:
+  # 最大回撤限制
+  max_drawdown: 0.10  # 10%
+  
+  # 波动率限制
+  max_volatility: 0.30  # 30%年化波动率
+  
+  # 单标的风险暴露
+  max_single_position: 0.20  # 单标的最大仓位20%
+  
+  # 行业集中度
+  max_sector_exposure: 0.30  # 单一行业最大暴露30%
+  
+  # 流动性风险
+  min_liquidity: 1000000  # 最小日成交额100万
+  
+  # VaR限制
+  var_confidence: 0.95
+  var_horizon: 1  # 天
+  max_var: 0.05   # 最大VaR 5%
+
+risk_indicators:
+  # 技术指标
+  rsi:
+    overbought: 70
+    oversold: 30
+    
+  macd:
+    fast_period: 12
+    slow_period: 26
+    signal_period: 9
+    
+  bollinger:
+    period: 20
+    std_dev: 2
+    
+  # 市场情绪
+  fear_greed_threshold: 40  # 低于40触发预警
+  
+  # 异常检测
+  price_deviation_threshold: 3.0  # 3倍标准差
+  volume_spike_threshold: 5.0     # 5倍平均成交量
+
+alert_settings:
+  # 预警级别
+  levels:
+    info:
+      channels: ["log"]
+    warning:
+      channels: ["log", "email"]
+    critical:
+      channels: ["log", "email", "sms", "telegram"]
+  
+  # 预警规则
+  rules:
+    - name: "price_drop"
+      condition: "price_change_1h < -0.05"
+      level: "warning"
+      
+    - name: "high_volatility"
+      condition: "volatility_24h > 0.20"
+      level: "warning"
+      
+    - name: "liquidity_warning"
+      condition: "volume_24h < min_liquidity"
+      level: "warning"
+      
+    - name: "max_drawdown_breach"
+      condition: "drawdown > max_drawdown"
+      level: "critical"
+      
+    - name: "var_breach"
+      condition: "var > max_var"
+      level: "critical"
+
+backtesting:
+  enabled: true
+  start_date: "2023-01-01"
+  end_date: "2023-12-31"
+  initial_capital: 1000000

@@ -1,0 +1,77 @@
+# 二号策略 - 技术分析策略
+# 需同时满足所有条件
+
+strategy_02_technical:
+  name: "技术分析二号策略"
+  type: "technical_all_conditions"
+  description: "DMI、RSI、换手率多指标同时触发策略"
+  
+  # 触发条件（必须同时满足所有条件）
+  trigger_conditions:
+    
+    # 条件1：DMI指标（两个子条件需同时满足）
+    dmi:
+      enabled: true
+      conditions:
+        - name: "DI1上穿DI2线"
+          code: "dmi_di1_cross_di2"
+          description: "+DI上穿-DI，显示上升动力"
+          
+        - name: "ADX上穿ADXR线"
+          code: "dmi_adx_cross_adxr"
+          description: "ADX上穿ADXR，显示趋势强度"
+      
+      logic: "all"  # 两个条件都需要满足
+    
+    # 条件2：换手率
+    turnover:
+      enabled: true
+      conditions:
+        - name: "换手率大于5%"
+          code: "turnover_gt_5"
+          value: 0.05
+          description: "换手率超过5%，显示市场活跃度"
+      
+      logic: "all"
+    
+    # 条件3：RSI指标
+    rsi:
+      enabled: true
+      conditions:
+        - name: "RSI金叉"
+          code: "rsi_golden_cross"
+          description: "RSI指标出现金叉信号"
+      
+      logic: "all"
+  
+  # 监控参数
+  monitoring:
+    frequency: 60  # 检查频率（秒），建议60秒（1分钟）
+    realtime: true  # 实时监控
+    intraday_only: true  # 仅盘中监控
+    
+  # 数据要求
+  data_requirements:
+    timeframe: "1min"  # 1分钟K线
+    history_days: 20  # 需要20天历史数据
+    indicators: ["dmi", "rsi"]
+    
+  # 输出设置
+  output:
+    alerts: true  # 实时预警
+    daily_report: true  # 每日报告
+    signal_log: true  # 信号记录
+    
+  # 交易规则（可选）
+  trading:
+    position_size: 0.08  # 单笔仓位8%
+    stop_loss: 0.06  # 止损6%
+    take_profit: 0.20  # 止盈20%
+    max_positions: 3  # 最大持仓3只
+    
+  # 策略备注
+  notes:
+    - "所有条件必须同时满足才触发策略"
+    - "DMI指标需同时满足DI1上穿DI2和ADX上穿ADXR"
+    - "换手率需大于5%"
+    - "RSI需出现金叉信号"
